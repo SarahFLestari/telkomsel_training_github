@@ -1,3 +1,5 @@
 # telkomsel_training_github
-# Trainiing data science
+# Training data science
 Day 4
+
+This is from new branch
